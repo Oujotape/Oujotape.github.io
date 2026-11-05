@@ -7,6 +7,8 @@ Site: https://oujotape.github.io
 ## O que tem aqui
 
 - `index.html`: página única do portfólio, sem dependências (HTML e CSS puros).
+- `automacao-organizador/`: script Python que organiza pastas por tipo de arquivo, com testes.
+- `prompts/`: biblioteca de prompts estruturados e registro de experimentos com LLMs.
 
 ## Como atualizar
 
